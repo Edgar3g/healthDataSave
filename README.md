@@ -1,5 +1,5 @@
 # Health Data Save
 
-[Link to English README](./README.en.md)
+[Link to English README](./readme.en.md)
 
-[Link para README em Português](./README.pt.md)
+[Link para README em Português](./readme.pt.md)
