@@ -118,7 +118,7 @@ O Health Data System ("HDS") é um sistema de gerenciamento de dados de saúde q
 
 ### Última Atualização:
 
-- 25 de Outubro de 2023 às 21:28 (UTC).
+- 11 de Abril de 2024 às 12:28 (UTC).
 
 
 #### by Edgar A. Dikenge(edgar3g)
